@@ -13,7 +13,8 @@ module.exports = {
         'ed-buy-button': 'hsla(34, 32%, 57%, 1)',
       },
       backgroundImage: {
-        'ed-stars': "url('/src/imgs/stars.jpg')"
+        'ed-stars': "url('/src/imgs/stars.jpg')",
+        'ed-planet': "url('/src/imgs/planet.jpg')"
       }
     },
   },
